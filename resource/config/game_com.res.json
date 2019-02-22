@@ -1,0 +1,113 @@
+{
+	"groups": [
+		{
+			"keys": "buttons_json,frames_json",
+			"name": "common"
+		},
+		{
+			"keys": "global",
+			"name": "global"
+		},
+		{
+			"keys": "loadingBg_jpg,load_Reel_png,loading_player_png",
+			"name": "loading"
+		},
+		{
+			"keys": "roles_json",
+			"name": "role"
+		},
+		{
+			"keys": "100_1,100_2,100_3,100_6,100_4,100_5",
+			"name": "bullet"
+		},
+		{
+			"keys": "leaftexiao_png,leaftexiao_json",
+			"name": "viewParticle"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/global.json",
+			"type": "json",
+			"name": "global"
+		},
+		{
+			"url": "common/atlas/button/buttons.json",
+			"type": "sheet",
+			"name": "buttons_json",
+			"subkeys": "btn_back,btn_beige,btn_blue,btn_close,btn_red"
+		},
+		{
+			"url": "common/atlas/frame/frames.json",
+			"type": "sheet",
+			"name": "frames_json",
+			"subkeys": "frame_01,frame_03,frame_04,frame_bg_01,frame_bg_02,frame_bg_03,frame_currency"
+		},
+		{
+			"url": "common/atlas/role/roles.json",
+			"type": "sheet",
+			"name": "roles_json",
+			"subkeys": "role_0,role_1,role_2,role_3,role_4,role_5,role_6,role_7,role_8,role_9"
+		},
+		{
+			"url": "common/bullet/100_1.png",
+			"type": "image",
+			"name": "100_1"
+		},
+		{
+			"url": "common/heroes/skin/chr_image_130131.png",
+			"type": "image",
+			"name": "chr_image_130131_png"
+		},
+		{
+			"url": "common/atlas/loadingBg.jpg",
+			"type": "image",
+			"name": "loadingBg_jpg"
+		},
+		{
+			"url": "common/atlas/load_Reel.png",
+			"type": "image",
+			"name": "load_Reel_png"
+		},
+		{
+			"url": "common/atlas/loading_player.png",
+			"type": "image",
+			"name": "loading_player_png"
+		},
+		{
+			"url": "common/bullet/100_2.png",
+			"type": "image",
+			"name": "100_2"
+		},
+		{
+			"url": "common/bullet/100_3.png",
+			"type": "image",
+			"name": "100_3"
+		},
+		{
+			"url": "common/bullet/100_6.png",
+			"type": "image",
+			"name": "100_6"
+		},
+		{
+			"url": "common/bullet/100_4.png",
+			"type": "image",
+			"name": "100_4"
+		},
+		{
+			"url": "common/bullet/100_5.png",
+			"type": "image",
+			"name": "100_5"
+		},
+		{
+			"url": "common/animation/particle/leaftexiao.png",
+			"type": "image",
+			"name": "leaftexiao_png"
+		},
+		{
+			"url": "common/animation/particle/leaftexiao.json",
+			"type": "json",
+			"name": "leaftexiao_json"
+		}
+	]
+}

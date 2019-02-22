@@ -1,0 +1,36 @@
+{
+	"groups": [
+		{
+			"keys": "login_json",
+			"name": "login"
+		},
+		{
+			"keys": "battle_json",
+			"name": "battle"
+		},
+		{
+			"keys": "loading_json",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "cn/asset/atlas/login/login.json",
+			"type": "sheet",
+			"name": "login_json",
+			"subkeys": "login_bg,login_name_icon,login_saizi,login_startBtn"
+		},
+		{
+			"url": "cn/asset/atlas/battle/battle.json",
+			"type": "sheet",
+			"name": "battle_json",
+			"subkeys": "adventure_lock,battle_level_bg,btn_create,camp_shadow,com_icon_di,frame_tankuangdi1,icon_dian100007,icon_tankuangwenli,icon_tiahua,icon_zhungashi,illustration_icon_di3"
+		},
+		{
+			"url": "cn/asset/atlas/loading/loading.json",
+			"type": "sheet",
+			"name": "loading_json",
+			"subkeys": "loading_player"
+		}
+	]
+}

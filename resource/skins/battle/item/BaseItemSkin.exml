@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BaseItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height="100" width="132">
+	<e:Image source="battle_json.camp_shadow" touchEnabled="false" scale9Grid="10,0,110,2" anchorOffsetY="0" height="100" horizontalCenter="0" verticalCenter="0"/>
+	<e:Group id="levelGroup" left="0" top="0">
+		<e:Image source="battle_json.battle_level_bg" scale9Grid="57,20,105,10" rotation="90" scaleX="0.3" scaleY="0.5" horizontalCenter="0" top="0"/>
+		<e:Label id="txtLevel" text="1" y="26" fontFamily="Microsoft YaHei" size="20" anchorOffsetX="0" textAlign="center" horizontalCenter="0.5"/>
+		<e:Label text="Lv" fontFamily="Microsoft YaHei" size="20" anchorOffsetX="0" textAlign="center" horizontalCenter="0" top="3"/>
+	</e:Group>
+</e:Skin>

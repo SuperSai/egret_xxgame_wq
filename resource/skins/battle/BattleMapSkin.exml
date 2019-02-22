@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BattleMapSkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Group width="100%" height="100%" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="battle_json.com_icon_di" left="0" right="0" top="0" bottom="0" locked="true"/>
+		<e:Image source="battle_json.frame_tankuangdi1" scale9Grid="102,14,27,46" width="720" anchorOffsetY="0" height="677.64" horizontalCenter="0" bottom="0" locked="true"/>
+		<e:Image id="mapImg" source="" width="720" height="612" horizontalCenter="0" top="0"/>
+
+
+		<e:Image source="battle_json.icon_zhungashi" y="591.57" left="0"/>
+		<e:Group horizontalCenter="0" bottom="56" locked="true">
+			<e:Image source="battle_json.icon_tankuangwenli" y="0" x="0"/>
+			<e:Image source="battle_json.icon_tankuangwenli" y="590" scaleY="-1" x="0"/>
+		</e:Group>
+		<e:Image source="battle_json.icon_tiahua" x="32" y="1195.5"/>
+		<e:Image source="battle_json.icon_tiahua" x="659" y="620.64"/>
+		<e:List id="lists" horizontalCenter="0" verticalCenter="180">
+			<e:layout>
+			<e:TileLayout requestedRowCount="3" requestedColumnCount="5" rowHeight="100" columnWidth="132" horizontalAlign="center" verticalAlign="middle" horizontalGap="6" verticalGap="30"/>
+			</e:layout>
+		</e:List>
+
+
+	</e:Group>
+</e:Skin>

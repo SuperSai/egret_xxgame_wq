@@ -1,0 +1,12 @@
+{"file":"battle.png","frames":{
+"illustration_icon_di3":{"x":0,"y":1579,"w":720,"h":136,"offX":0,"offY":0,"sourceW":720,"sourceH":136},
+"adventure_lock":{"x":920,"y":116,"w":83,"h":90,"offX":8,"offY":5,"sourceW":100,"sourceH":100},
+"battle_level_bg":{"x":722,"y":178,"w":196,"h":53,"offX":0,"offY":0,"sourceW":196,"sourceH":53},
+"btn_create":{"x":722,"y":116,"w":181,"h":60,"offX":0,"offY":0,"sourceW":181,"sourceH":60},
+"camp_shadow":{"x":722,"y":233,"w":132,"h":47,"offX":0,"offY":0,"sourceW":132,"sourceH":47},
+"com_icon_di":{"x":0,"y":0,"w":720,"h":1280,"offX":0,"offY":0,"sourceW":720,"sourceH":1280},
+"frame_tankuangdi1":{"x":722,"y":0,"w":231,"h":114,"offX":0,"offY":0,"sourceW":231,"sourceH":114},
+"icon_dian100007":{"x":989,"y":59,"w":17,"h":17,"offX":0,"offY":0,"sourceW":17,"sourceH":17},
+"icon_tankuangwenli":{"x":0,"y":1282,"w":598,"h":295,"offX":0,"offY":0,"sourceW":598,"sourceH":295},
+"icon_tiahua":{"x":955,"y":0,"w":58,"h":57,"offX":0,"offY":0,"sourceW":58,"sourceH":57},
+"icon_zhungashi":{"x":955,"y":59,"w":32,"h":44,"offX":0,"offY":0,"sourceW":32,"sourceH":44}}}
